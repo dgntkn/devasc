@@ -1,0 +1,9 @@
+user:
+  location:
+    city:
+    - Dallas
+    state: TX
+  name: john
+  roles:
+  - admin
+
